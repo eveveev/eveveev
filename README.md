@@ -1,4 +1,7 @@
-## Eunbyeol Cho
+<div align="center">
+ 
+ ## Eunbyeol Cho
+ 
  <img src="octocat.gif" alt="octocat" width="50" />
 
  
