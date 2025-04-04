@@ -6,6 +6,7 @@
 - Computer Engineering
 - International Business and Economics
 - French Language and Literature
+  
 **University of Nebraska Omaha**
 - Computer Science
 - Cyber Security
