@@ -4,7 +4,9 @@
  
  <img src="octocat.gif" alt="octocat" width="50" />
 
- 
+</div>
+
+
 ### Education
 
 **Yeungnam University**
