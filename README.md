@@ -1,6 +1,6 @@
 ## Eunbyeol Cho
 
-###Education
+### Education
 
 **Yeungnam University**
 - Computer Engineering
