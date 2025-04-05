@@ -12,9 +12,9 @@
 **Yeungnam University**
 - Computer Engineering
 - International Business and Economics
-- French Language and Literature
+- French Language and Literature (Minor)
   
-**University of Nebraska Omaha**
+**University of Nebraska Omaha** (Exchange student)
 - Computer Science
 - Cyber Security
 
