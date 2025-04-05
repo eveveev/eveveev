@@ -38,6 +38,8 @@
 
 </div> <br>
 
+![Snake animation](https://github.com/eveveev/eveveev/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
