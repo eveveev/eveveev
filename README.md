@@ -12,7 +12,6 @@
 <br>
 •  Computer Engineering <br>
 •  International Business and Economics <br>
-•  French Language and Literature (Minor) <br>
   
 **University of Nebraska Omaha** (Exchange student) <br>
 •  Computer Science <br>
