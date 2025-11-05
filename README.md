@@ -13,7 +13,7 @@
 •  Computer Engineering <br>
 •  International Business and Economics <br>
   
-**University of Nebraska Omaha** (Exchange student) <br>
+**University of Nebraska Omaha** (1 year) <br>
 •  Computer Science <br>
 •  Cyber Security <br>
 
