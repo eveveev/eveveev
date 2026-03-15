@@ -22,7 +22,7 @@
 <div align="center">
  
  ### 🌐 Socials
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/eunbyeolcho)  
 </div> <br>
 
 <div align="center">
