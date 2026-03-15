@@ -10,7 +10,7 @@
 
 **Yeungnam University** 
 <br>
-•  Computer Engineering <br>
+•  Computer Science <br>
 •  International Business and Economics <br>
   
 **University of Nebraska Omaha** (1 year) <br>
